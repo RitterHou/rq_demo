@@ -1,4 +1,3 @@
 #!/bin/bash
 
-rq worker queue_1 --with-scheduler
-
+rq worker queue_1 default --with-scheduler
